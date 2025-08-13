@@ -63,7 +63,7 @@ const links = [
   font-family: 'Comic Neue', cursive;
   font-weight: bold;
   letter-spacing: 1px;
-  padding-left: 15px;
+  padding-left: 20px;
   color: #99582a; 
   text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.8);
 }
