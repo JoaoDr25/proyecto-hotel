@@ -1,0 +1,19 @@
+// jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["src/*"],
+      "quasar": ["node_modules/quasar/dist/quasar.esm.js"],
+      "quasar/wrappers": ["node_modules/quasar/dist/quasar.umd.js"]
+    }
+  },
+  "include": [
+    "src/**/*.js",
+    "src/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
