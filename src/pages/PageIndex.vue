@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <div class="column items-center q-gutter-md">
-      <h1 class="text-h3 text-primary text-center">BIENVENIDO AL HOTEL GREGORITS</h1>
+      <h1 class="text-h3 text-primary text-center">Bienvenidos al Hotel Cacao & Neblina</h1>
       <p class="text-body1 text-center text-grey-8" style="max-width: 800px;">
         Una experiencia única de tranquilidad y aventura. Ubicado en el corazón de la naturaleza, 
         nuestro hotel ofrece el equilibrio perfecto entre lujo y desconexión.

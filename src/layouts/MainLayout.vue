@@ -4,7 +4,7 @@
     <q-header elevated class="bg-gradient text-white">
       <q-toolbar class="q-pa-sm">
         <q-toolbar-title class="anime-title">
-          HOTEL GREGORITS
+          HOTEL CACAO & NEBLINA
         </q-toolbar-title>
 
         <q-tabs
