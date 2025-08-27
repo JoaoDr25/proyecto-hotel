@@ -13,23 +13,23 @@
 <script setup>
 import CardHabitacion from 'components/CardHabitacion.vue';
 
-// Datos de ejemplo para las habitaciones
+
 const habitaciones = [
   {
     nombre: 'Suite Presidencial',
-    imagen: 'https://cdn.quasar.dev/img/parallax1.jpg',
+    imagen: '/suite01.png',
     descripcion: 'Lujo y confort en un espacio de ensueño. Equipada con jacuzzi, cama king size y vistas panorámicas.',
     precio: '$500 USD por noche'
   },
   {
     nombre: 'Habitación Familiar',
-    imagen: 'https://cdn.quasar.dev/img/mountains.jpg',
+    imagen: '/familiar01.png',
     descripcion: 'Ideal para familias con niños. Cama queen y literas, con área de juegos y espacio adicional.',
     precio: '$300 USD por noche'
   },
   {
     nombre: 'Habitación Doble',
-    imagen: 'https://cdn.quasar.dev/img/material.png',
+    imagen: '/doble01.png',
     descripcion: 'Perfecta para parejas o amigos. Dos camas individuales o una cama matrimonial, con balcón privado.',
     precio: '$200 USD por noche'
   },
